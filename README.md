@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Felipe Adão 👋
 
-<!--
-**Felipe-Adao/Felipe-Adao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at UNESP (São Paulo State University), Brazil.
 
-Here are some ideas to get you started:
+💻 I'm passionate about programming, software development, and technology. I'm constantly learning new tools and improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools and Technologies
+
+- Git and GitHub
+- Visual Studio Code
+- IntelliJ IDEA
+
+## 💻 Languages
+
+- C
+- C++
+- Java
+- Python
+- REACT
+
+## 📚 Currently Learning
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Software Development
+
+---
+
+
+
